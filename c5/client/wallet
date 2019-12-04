@@ -1,0 +1,16 @@
+{
+ "Keys": {
+  "issuer": {
+   "type": "secp256k1/privkey",
+   "value": "QadhI0/aZVSd/fLt7hjHUaED5xRWC3cNhHrBA74f6DQ="
+  },
+  "Cai.Zhihong": {
+   "type": "secp256k1/privkey",
+   "value": "nN1gQj57iduDzV3Bln1SrLmRpk4s7u6XpU6QtM2+VuE="
+  },
+  "Wu.Yanhong": {
+   "type": "secp256k1/privkey",
+   "value": "qJWIn5aD4MsPy3ysW8KrRQ1aRZKN3TON59naC1gf/6U="
+  }
+ }
+}

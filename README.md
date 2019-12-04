@@ -1,1 +1,1 @@
-study tendermint step by step
+tendermint tutorial test step by step
